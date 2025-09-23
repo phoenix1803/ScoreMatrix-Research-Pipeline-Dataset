@@ -1,0 +1,7 @@
+Method,Pearson r,MAE,RMSE,R²
+cosine_similarity_new (single),0.427,4.402,-,-
+semantic_similarity (single),nan,6.850,-,-
+grammatical_accuracy (single),0.460,2.644,-,-
+factual_consistency (single),0.137,4.347,-,-
+Unweighted Average,0.503,3.576,-,-
+Weighted Multi-Criteria (Ours),0.537,3.370,4.055,-0.255
