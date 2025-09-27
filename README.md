@@ -1,5 +1,5 @@
 # ScoreMatrix: Research Pipeline and Dataset Repository
-
+ 
 **A Parameter-Guided Framework for Automated Evaluation of Answer Sheets**
 
 This repository contains the complete research implementation, dataset, and evaluation materials for ScoreMatrix - a transparent and configurable framework for automated scoring of diverse academic answer sheets including objective MCQ, short-form, descriptive, and opinion-based responses.
